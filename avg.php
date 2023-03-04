@@ -2,7 +2,7 @@
 
 	function srednia(a,b)
 	{
-		return(a+2)/2
+		return(a+b)/2
 	}
 	
 	function srednia_wazona(a,b)
